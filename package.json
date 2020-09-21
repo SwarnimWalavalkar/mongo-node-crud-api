@@ -1,0 +1,22 @@
+{
+    "name": "mongo-crud-api",
+    "version": "1.0.0",
+    "description": "A simple api to perform crud operations on a mongo database",
+    "main": "app.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "swarnim",
+        "node",
+        "express",
+        "mongodb"
+    ],
+    "author": "Swarnim Walavalkar",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "joi": "^17.2.1",
+        "monk": "^7.3.2"
+    }
+}
